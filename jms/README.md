@@ -24,7 +24,7 @@ modules and headers but also the project files that are useful for loading the p
 ## Interact with Kaazing iOS JMS Client API
 
 Detailed instructions to create Kaazing iOS JMS Demo from scratch to be able to send and receive messages
-over WebSocket can be found [here](http://developer.kaazing.com/documentation/jms/4.0/dev-objc/o_dev_objc.html).
+over WebSocket can be found [here](http://kaazing.com/doc/5.0/jms_client_docs/dev-objc/o_dev_objc.html).
 
 ## API Documentation
 
