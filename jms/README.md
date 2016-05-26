@@ -23,7 +23,7 @@ modules and headers but also the project files that are useful for loading the p
 
 ## Interact with Kaazing iOS JMS Client API
 
-When testing the demo, connect to the publicly available Kaazing Gateway and message broker at `wss://sandbox.kaazing.net/jms`.
+When testing the demo, connect to the publicly available Kaazing Gateway and message broker at `wss://sandbox.kaazing.net/echo`.
 
 Detailed instructions to create the Kaazing iOS JMS Demo from scratch and send and receive messages
 over WebSocket can be found [here](http://kaazing.com/doc/5.0/jms_client_docs/dev-objc/o_dev_objc.html).
