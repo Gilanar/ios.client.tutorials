@@ -4,9 +4,9 @@ This demo shows how native iOS applications communicate over the web with Java M
 broker such as Apache ActiveMQ or TIBCO EMS via Kaazing WebSocket Gateway using Kaazing iOS Client
 framework. The demo application shows how to use the Kaazing iOS JMS APIs to subscribe to JMS topics over the web 
 via Kaazing WebSocket Gateway connected to a JMS-compliant message broker. Kaazing iOS Client frameworks are
-located in `lib` folder under the top-level directory.
+located at [kaazing.com/download](http://kaazing.com/download).
 
-## Minimum Requirements for Running or Building Kaazing iOS WebSocket Demo
+## Minimum Requirements for Running or Building Kaazing iOS Demo
 
 * Xcode 5 or higher
 * Xcode's Command Line Tools.  From Xcode, install via _Xcode &rarr; Preferences &rarr; Downloads_.
@@ -18,12 +18,14 @@ Once the project is loaded in Xcode, run the application in an iPhone/iPad simul
 
 ## Demo Source Code
 
-Source code for the demos is located in `demo/jms/src` folder. The source not only includes the Objective-C
+Source code for the demos is located in the `jms/src` folder. The source not only includes the Objective-C
 modules and headers but also the project files that are useful for loading the project in Xcode.
 
 ## Interact with Kaazing iOS JMS Client API
 
-Detailed instructions to create Kaazing iOS JMS Demo from scratch to be able to send and receive messages
+When testing the demo, connect to the publicly available Kaazing Gateway and message broker at `wss://sandbox.kaazing.net/jms`.
+
+Detailed instructions to create the Kaazing iOS JMS Demo from scratch and send and receive messages
 over WebSocket can be found [here](http://kaazing.com/doc/5.0/jms_client_docs/dev-objc/o_dev_objc.html).
 
 ## API Documentation
