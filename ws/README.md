@@ -17,7 +17,7 @@ located at [kaazing.com/download](http://kaazing.com/download).
 You can build and run the Kaazing iOS WebSocket app by loading the project in Xcode.
 Once the project is loaded in Xcode, run the application in an iPhone/iPad simulator.
 
-Use `wss://sandbox.kaazing.net/echo` as the `Location` of the WebSocket endpoint to send and receive messages.
+Use `wss://demos.kaazing.com/echo` as the `Location` of the WebSocket endpoint to send and receive messages.
 
 ## Demo Source Code
 
